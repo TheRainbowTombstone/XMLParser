@@ -16,8 +16,8 @@
 
 Нужен Qt 5 или 6 и компилятор с поддержкой C++17.
 
-~ cd XMLParser
-~ mkdir build
-~ cd build/
-~ cmake ..
-~ cmake --build .
+- cd XMLParser
+- mkdir build
+- cd build/
+- cmake ..
+- cmake --build .
